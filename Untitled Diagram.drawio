@@ -97,11 +97,29 @@
             <mxPoint x="160" y="765.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0EPqEmD8gqdU7O8rIZc-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.975;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="C0EPqEmD8gqdU7O8rIZc-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.975;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="765" as="sourcePoint" />
+            <mxPoint x="534" y="765.5" as="sourcePoint" />
             <mxPoint x="600" y="764.4999999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C0EPqEmD8gqdU7O8rIZc-43" value="master bdrm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C0EPqEmD8gqdU7O8rIZc-44" value="bdrm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C0EPqEmD8gqdU7O8rIZc-45" value="bdrm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="620" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C0EPqEmD8gqdU7O8rIZc-46" value="bath/toilet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="620" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C0EPqEmD8gqdU7O8rIZc-47" value="bath/toilet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="455" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C0EPqEmD8gqdU7O8rIZc-48" value="terrace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="455" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
